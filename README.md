@@ -1,1 +1,1 @@
-# bridged-demo-streamlit-based
+streamlit-based
